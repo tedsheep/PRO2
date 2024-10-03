@@ -5,3 +5,9 @@ class Header extends React.Component {
 		return (
 			<div ClassName='container'>
 
+			</div>
+		)
+
+	}
+}
+
